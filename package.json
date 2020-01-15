@@ -1,0 +1,19 @@
+{
+  "name": "gg",
+  "version": "1.0.0",
+  "description": "My simple html5,js game engine",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psqq/gg.git"
+  },
+  "author": "psqq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psqq/gg/issues"
+  },
+  "homepage": "https://github.com/psqq/gg#readme"
+}
